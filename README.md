@@ -5,7 +5,7 @@ Ce projet implémente un script de scrapping pour collecter des données à part
 ## Utilisation
 
 ### Installation des dépendances
-1. Cloner ce dépôt : `git clone https://github.com/votre-utilisateur/votre-projet.git`
+1. Cloner ce dépôt : `git clone https://github.com/Pozymandiaz/WebScrapping`
 2. Installer les dépendances Python : `pip install -r requirements.txt`
 
 ### Exécution du script
