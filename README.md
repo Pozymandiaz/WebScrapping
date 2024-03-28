@@ -10,8 +10,8 @@ Ce projet implémente un script de scrapping pour collecter des données à part
 
 ### Exécution du script
 1. Assurez-vous d'avoir Docker installé sur votre système.
-2. Construire l'image Docker : `docker build -t nom-image .`
-3. Exécuter le conteneur Docker : `docker run -it nom-image`
+2. Construire l'image Docker
+3. Exécuter le conteneur Docker
 
 ## Structure des fichiers
 - `scraper.py` : Le script Python principal pour le scrapping et l'insertion des données dans la base de données.
